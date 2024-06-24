@@ -1,0 +1,20 @@
+[ai]
+version = "2024-06-24 15:11:09"
+filelist = [ "umaDB.json", "cardDB.json" ]
+
+[bin_ai]
+version = "2024-06-24 15:26:08"
+filelist = [ "testConfig.json", "UmaAi_cuda.exe", "aiConfig.json", "model.onnx", "model.txt", "model_traced.pt", "roleplay.json" ]
+
+[bin_ura]
+version = "2024-06-24 15:11:44"
+filelist = [ "UmamusumeResponseAnalyzer.exe" ]
+
+[tlg]
+version = "2024-06-24 15:13:14"
+filelist = [ "text_data.json" ]
+
+[ura]
+version = "2024-06-24 16:15:00"
+filelist = [ "events.br", "factor_ids.br", "names.br", "skill_data.br", "skill_upgrade_speciality.br", "success_events.br", "talent_skill_sets.br" ]
+
