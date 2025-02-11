@@ -12,8 +12,8 @@ def get_hash(filename):
     print(filename, ret)
     return ret
 
-current_date = datetime.datetime.now().date()
-print("当前日期:", current_date)
+current_date = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+print("当前时间:", current_date)
 
 version = {}
 with open("version.toml", encoding="utf-8") as f:
