@@ -12,6 +12,13 @@ def get_hash(filename):
     print(filename, ret)
     return ret
 
+def get_last_modified(dir):
+    files = [f for f in os.listdir(dir)]
+    latest_entry = max(files, key=lambda x: os.path.getmtime(f'{dir}/{x}'))
+    latest_time = datetime.datetime.fromtimestamp(os.path.getmtime(f'{dir}/{latest_entry}'))
+    print(f"{dir}/{latest_entry}: {latest_time}")
+    return latest_time
+
 current_date = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 print("当前时间:", current_date)
 
@@ -21,7 +28,7 @@ with open("version.toml", encoding="utf-8") as f:
 
 for key in version:
     print(f"[{key}]")
-    version[key]["date"] = str(current_date)
+    version[key]["date"] = str(get_last_modified(f"{key}"))
     sha1 = version[key].get("sha1")
     if sha1:
         filename = f"{key}/{version[key]['filelist'][0]}"

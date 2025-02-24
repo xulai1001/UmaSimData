@@ -1,25 +1,28 @@
 [auto_update]
 name = "自动更新工具"
-date = "2025-02-11 13:54:57"
+date = "2025-02-08 17:11:32"
 filelist = ["uma-autoupdate.exe"]
 sha1 = "7ce26b28b2030522b17b4e98debf6f3d9e62ccca"
 index = 6
+install_path = "."
 ver = "0.1.0"
 
 [ura_data]
 name = "小黑板数据"
-date = "2025-02-11 13:54:57"
+date = "2025-02-23 23:42:36"
 filelist = ["events.br", "factor_ids.br", "names.br", "skill_data.br", "skill_upgrade_speciality.br", "success_events.br", "talent_skill_sets.br"]
-package = "数据v250131210605.zip"
-package_sha1 = "51c75ecbecd745cd05708a76412ba70937d8716e"
+#package = "数据v250131210605.zip"
+#package_sha1 = "51c75ecbecd745cd05708a76412ba70937d8716e"
+install_path = "%localappdata%/UmamusumeResponseAnalyzer"
 index = 3
 
 [ai_data]
 name = "AI数据"
-date = "2025-02-11 13:54:57"
+date = "2025-02-23 23:32:42"
 filelist = [
-    "db/cardDB.json",
-    "db/umaDB.json",
-    "db/text_data.json",
+    "cardDB.json",
+    "umaDB.json",
+    "text_data.json",
 ]
+install_path = "db"
 index = 2
