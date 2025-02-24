@@ -9,16 +9,16 @@ ver = "0.1.0"
 
 [ura_data]
 name = "小黑板数据"
-date = "2025-02-23 23:42:36"
+date = "2025-02-24 17:39:28"
 filelist = ["events.br", "factor_ids.br", "names.br", "skill_data.br", "skill_upgrade_speciality.br", "success_events.br", "talent_skill_sets.br"]
-#package = "数据v250131210605.zip"
-#package_sha1 = "51c75ecbecd745cd05708a76412ba70937d8716e"
+package = "数据v250224173926.zip"
+package_sha1 = "afc5e0b5dd15aaa83011654dfada2fb02034142a"
 install_path = "%localappdata%/UmamusumeResponseAnalyzer"
 index = 3
 
 [ai_data]
 name = "AI数据"
-date = "2025-02-23 23:32:42"
+date = "2025-02-24 16:58:16"
 filelist = [
     "cardDB.json",
     "umaDB.json",
