@@ -6485,6 +6485,45 @@
     ],
     "star": 5
   },
+  "109601": {
+    "bonusData": [],
+    "fiveStatusBonus": [
+      0,
+      20,
+      0,
+      0,
+      10
+    ],
+    "fiveStatusInitial": [
+      114,
+      104,
+      115,
+      93,
+      124
+    ],
+    "freeRaces": [
+      {
+        "startTurn": 12,
+        "endTurn": 26,
+        "count": 1
+      }
+    ],
+    "gameId": 109601,
+    "name": "[紅色塗早駆具足]ノーリーズン",
+    "preferRaces": [],
+    "preferReds": [],
+    "races": [
+      11,
+      30,
+      33,
+      43,
+      47,
+      59,
+      67,
+      69
+    ],
+    "star": 5
+  },
   "109801": {
     "bonusData": [],
     "fiveStatusBonus": [
