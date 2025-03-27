@@ -9,10 +9,10 @@ ver = "0.1.0"
 
 [ura_data]
 name = "小黑板数据"
-date = "2025-03-21 22:29:48"
+date = "2025-03-26 22:46:54"
 filelist = ["events.br", "factor_ids.br", "names.br", "skill_data.br", "skill_upgrade_speciality.br", "success_events.br", "talent_skill_sets.br"]
 package = "数据v250326224652.zip"
-package_sha1 = "44c19a63b60742f73e531458208b49eabd827f1c"
+package_sha1 = "b75a8cde86da3d812c5790dfc09feb0311f58d05"
 install_path = "%localappdata%/UmamusumeResponseAnalyzer"
 index = 3
 
