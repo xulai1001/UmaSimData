@@ -19,11 +19,11 @@ sha1 = "0f4db1c830e44022fe34a6086bc0b89861d35042"
 
 [ai_data]
 name = "AI数据"
-date = "2025-03-21 22:27:22"
+date = "2025-03-31 21:14:48"
 filelist = [
     "cardDB.json",
     "umaDB.json",
 ]
 install_path = "db"
 index = 2
-sha1 = "8311f12a1bef34a92da5b7a7131ac5e00156a11d"
+sha1 = "cc9175f19abfac8db6f4cc709f421bc61015b847"
