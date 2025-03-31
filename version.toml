@@ -1,11 +1,11 @@
 [auto_update]
 name = "自动更新工具"
-date = "2025-03-31 21:54:58"
+date = "2025-03-31 22:05:54"
 filelist = ["uma-autoupdate.exe"]
-sha1 = "b582f01cee1cf58567a6cf75584a4b596e31c4a3"
+sha1 = "f10f568edd734f91960ce142c735aa41eb3497d8"
 index = 6
 install_path = "."
-ver = "0.1.0"
+ver = "0.1.2"
 
 [ura_data]
 name = "小黑板数据"
