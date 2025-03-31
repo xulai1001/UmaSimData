@@ -1,8 +1,8 @@
 [auto_update]
 name = "自动更新工具"
-date = "2025-03-31 18:28:20"
+date = "2025-03-31 21:54:58"
 filelist = ["uma-autoupdate.exe"]
-sha1 = "fb85d74faf5cf82f864b9c6bde3c8d195eb3ec1f"
+sha1 = "b582f01cee1cf58567a6cf75584a4b596e31c4a3"
 index = 6
 install_path = "."
 ver = "0.1.0"
