@@ -1,8 +1,8 @@
 [auto_update]
 name = "自动更新工具"
-date = "2025-02-24 18:41:38"
+date = "2025-03-31 18:28:20"
 filelist = ["uma-autoupdate.exe"]
-sha1 = "29fd21fc2a101b5a273240a7532946287cf21905"
+sha1 = "fb85d74faf5cf82f864b9c6bde3c8d195eb3ec1f"
 index = 6
 install_path = "."
 ver = "0.1.0"
@@ -15,6 +15,7 @@ package = "数据v250326224652.zip"
 package_sha1 = "b75a8cde86da3d812c5790dfc09feb0311f58d05"
 install_path = "%localappdata%/UmamusumeResponseAnalyzer"
 index = 3
+sha1 = "0f4db1c830e44022fe34a6086bc0b89861d35042"
 
 [ai_data]
 name = "AI数据"
@@ -25,3 +26,4 @@ filelist = [
 ]
 install_path = "db"
 index = 2
+sha1 = "8311f12a1bef34a92da5b7a7131ac5e00156a11d"
