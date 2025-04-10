@@ -5447,6 +5447,41 @@
     ],
     "star": 5
   },
+  "107002": {
+    "bonusData": [],
+    "fiveStatusBonus": [
+      0,
+      0,
+      10,
+      20,
+      0
+    ],
+    "fiveStatusInitial": [
+      110,
+      106,
+      126,
+      92,
+      116
+    ],
+    "freeRaces": [],
+    "gameId": 107002,
+    "name": "[Louve stellaire]シリウスシンボリ",
+    "preferRaces": [],
+    "preferReds": [],
+    "races": [
+      11,
+      18,
+      30,
+      33,
+      43,
+      47,
+      53,
+      59,
+      69,
+      71
+    ],
+    "star": 5
+  },
   "107101": {
     "bonusData": [],
     "fiveStatusBonus": [
