@@ -7470,6 +7470,41 @@
     ],
     "star": 5
   },
+  "112701": {
+    "bonusData": [],
+    "fiveStatusBonus": [
+      0,
+      10,
+      0,
+      20,
+      0
+    ],
+    "fiveStatusInitial": [
+      92,
+      142,
+      92,
+      120,
+      104
+    ],
+    "freeRaces": [],
+    "gameId": 112701,
+    "name": "[義心の黒焔]フェノーメノ",
+    "preferRaces": [],
+    "preferReds": [],
+    "races": [
+      11,
+      23,
+      31,
+      33,
+      43,
+      45,
+      53,
+      55,
+      59,
+      71
+    ],
+    "star": 5
+  },
   "113101": {
     "bonusData": [],
     "fiveStatusBonus": [
