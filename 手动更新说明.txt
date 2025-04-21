@@ -1,0 +1,8 @@
+AI数据更新方法：
+ai_data目录下的三个.json文件，复制到【AI所在目录\db】下，覆盖同名文件
+
+小黑板数据更新方法：
+ura_data目录下的所有.br文件 覆盖到以下目录的同名文件
+
+%localappdata%\UmamusumeResponseAnalyzer
+（可以使用链接【打开小黑板数据文件夹】快速进入）
