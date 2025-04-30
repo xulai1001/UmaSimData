@@ -3698,6 +3698,47 @@
     ],
     "star": 5
   },
+  "104603": {
+    "bonusData": [],
+    "fiveStatusBonus": [
+      0,
+      10,
+      10,
+      10,
+      0
+    ],
+    "fiveStatusInitial": [
+      123,
+      95,
+      104,
+      117,
+      111
+    ],
+    "freeRaces": [
+      {
+        "startTurn": 12,
+        "endTurn": 24,
+        "count": 2
+      }
+    ],
+    "gameId": 104603,
+    "name": "[ルミナス☆トワラー]スマートファルコン",
+    "preferRaces": [],
+    "preferReds": [],
+    "races": [
+      11,
+      30,
+      36,
+      44,
+      47,
+      51,
+      59,
+      68,
+      70,
+      71
+    ],
+    "star": 5
+  },
   "104701": {
     "bonusData": [],
     "fiveStatusBonus": [
@@ -6620,6 +6661,46 @@
     ],
     "gameId": 109801,
     "name": "[阴阳八卦☆开运衣]小林历奇",
+    "preferRaces": [],
+    "preferReds": [],
+    "races": [
+      11,
+      30,
+      46,
+      51,
+      56,
+      59,
+      66,
+      68,
+      71
+    ],
+    "star": 5
+  },
+  "109802": {
+    "bonusData": [],
+    "fiveStatusBonus": [
+      0,
+      10,
+      5,
+      10,
+      5
+    ],
+    "fiveStatusInitial": [
+      103,
+      105,
+      113,
+      115,
+      114
+    ],
+    "freeRaces": [
+      {
+        "startTurn": 12,
+        "endTurn": 23,
+        "count": 1
+      }
+    ],
+    "gameId": 109802,
+    "name": "[光彩陸離☆招福衣]コパノリッキー",
     "preferRaces": [],
     "preferReds": [],
     "races": [
