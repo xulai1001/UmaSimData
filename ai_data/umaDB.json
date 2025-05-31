@@ -49,7 +49,7 @@
     ],
     "freeRaces": [],
     "gameId": 100102,
-    "name": "[跳跃♪富含维他命的心]特别周",
+    "name": "[雀跃♪维他命心拍]特别周",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -81,7 +81,7 @@
     ],
     "freeRaces": [],
     "gameId": 100103,
-    "name": "[日之本第一总大将]特别周",
+    "name": "[日本第一总大将]特别周",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -119,7 +119,7 @@
       }
     ],
     "gameId": 100201,
-    "name": "[无声纯真]无声铃鹿",
+    "name": "[无声无瑕]无声铃鹿",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -157,7 +157,7 @@
       }
     ],
     "gameId": 100202,
-    "name": "[波浪间的绿宝石]无声铃鹿",
+    "name": "[碧波间的绿宝石]无声铃鹿",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -189,7 +189,7 @@
     ],
     "freeRaces": [],
     "gameId": 100301,
-    "name": "[欢乐巅峰]东海帝皇",
+    "name": "[无上喜悦]东海帝王",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -222,7 +222,7 @@
     ],
     "freeRaces": [],
     "gameId": 100302,
-    "name": "[超越地平线]东海帝皇",
+    "name": "[飞跃地平线]东海帝王",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -255,7 +255,7 @@
     ],
     "freeRaces": [],
     "gameId": 100303,
-    "name": "[紫云下的追梦蝶]东海帝皇",
+    "name": "[追寻紫云之梦]东海帝王",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -288,7 +288,7 @@
     ],
     "freeRaces": [],
     "gameId": 100401,
-    "name": "[嫣红方程式]丸善斯基",
+    "name": "[绯红方程式]丸善斯基",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -322,7 +322,7 @@
     ],
     "freeRaces": [],
     "gameId": 100402,
-    "name": "[飞越☆盛夏骑士]丸善斯基",
+    "name": "[飞跃☆夏夜]丸善斯基",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -356,7 +356,7 @@
     ],
     "freeRaces": [],
     "gameId": 100403,
-    "name": "[祝福长寿的神速天女]丸善斯基",
+    "name": "[祝ひ寿ぐ神速天女]マルゼンスキー",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -425,7 +425,7 @@
     ],
     "freeRaces": [],
     "gameId": 100502,
-    "name": "[胜利明星]富士奇石",
+    "name": "[闪耀之星]富士奇石",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -471,7 +471,7 @@
       }
     ],
     "gameId": 100601,
-    "name": "[星光跃动]小栗帽",
+    "name": "[星光鼓动]小栗帽",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -513,7 +513,7 @@
       }
     ],
     "gameId": 100602,
-    "name": "[奇迹白星]小栗帽",
+    "name": "[奇迹的白星]小栗帽",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -544,7 +544,7 @@
     ],
     "freeRaces": [],
     "gameId": 100701,
-    "name": "[火红斗争]黄金船",
+    "name": "[赤色纷争者]黄金船",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -578,7 +578,7 @@
     ],
     "freeRaces": [],
     "gameId": 100702,
-    "name": "[RUN！乱！乱枪射手！！]黄金船",
+    "name": "[RUN！乱！Launcher！！]黄金船",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -646,7 +646,7 @@
     ],
     "freeRaces": [],
     "gameId": 100801,
-    "name": "[狂野极速]伏特加",
+    "name": "[极速狂飙]伏特加",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -716,7 +716,7 @@
     ],
     "freeRaces": [],
     "gameId": 100901,
-    "name": "[苍蓝巅峰]大和赤骥",
+    "name": "[蓝色・顶点]大和赤骥",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -750,7 +750,7 @@
     ],
     "freeRaces": [],
     "gameId": 100902,
-    "name": "[绯红的星落之夜]大和赤骥",
+    "name": "[绯色的星月之夜]大和赤骥",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -784,7 +784,7 @@
     ],
     "freeRaces": [],
     "gameId": 101001,
-    "name": "[野性边境]大树快车",
+    "name": "[狂野・边境]大树快车",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -850,7 +850,7 @@
     ],
     "freeRaces": [],
     "gameId": 101101,
-    "name": "[穿岩之青]草上飞",
+    "name": "[穿岩之蓝]草上飞",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -883,7 +883,7 @@
     ],
     "freeRaces": [],
     "gameId": 101102,
-    "name": "[神圣翡翠治愈师]草上飞",
+    "name": "[圣翡翠・治愈师]草上飞",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -916,7 +916,7 @@
     ],
     "freeRaces": [],
     "gameId": 101103,
-    "name": "[苍炎之誉]草上飞",
+    "name": "[蒼炎の誉]グラスワンダー",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -949,7 +949,7 @@
     ],
     "freeRaces": [],
     "gameId": 101201,
-    "name": "[亚马逊青金石]菱亚马逊",
+    "name": "[亚马逊・青金石]菱亚马逊",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -1025,7 +1025,7 @@
       }
     ],
     "gameId": 101301,
-    "name": "[优雅线条]目白麦昆",
+    "name": "[Elegance・Line]目白麦昆",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -1062,7 +1062,7 @@
       }
     ],
     "gameId": 101302,
-    "name": "[空之尽头]目白麦昆",
+    "name": "[天空的尽头]目白麦昆",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -1099,7 +1099,7 @@
       }
     ],
     "gameId": 101303,
-    "name": "[涟漪窈窕淑女]目白麦昆",
+    "name": "[涟漪淑女]目白麦昆",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -1130,7 +1130,7 @@
     ],
     "freeRaces": [],
     "gameId": 101401,
-    "name": "[神鹰☆Número 1]神鹰",
+    "name": "[小鹰☆Número 1]神鹰",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -1163,7 +1163,7 @@
     ],
     "freeRaces": [],
     "gameId": 101402,
-    "name": "[羽蛇神武斗家]神鹰",
+    "name": "[库库尔坎·格斗家]神鹰",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -1202,7 +1202,7 @@
       }
     ],
     "gameId": 101501,
-    "name": "[你的太阳！]好歌剧",
+    "name": "['O sole suo！]好歌剧",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -1241,7 +1241,7 @@
       }
     ],
     "gameId": 101502,
-    "name": "[初晴．湛蓝绚烂]好歌剧",
+    "name": "[初晴・青之绚烂]好歌剧",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -1274,7 +1274,7 @@
     ],
     "freeRaces": [],
     "gameId": 101601,
-    "name": "[Maverick]成田白仁",
+    "name": "[独行侠]成田白仁",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -1346,7 +1346,7 @@
     ],
     "freeRaces": [],
     "gameId": 101701,
-    "name": "[皇帝之路]鲁道夫象征",
+    "name": "[万王之王]鲁道夫象征",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -1380,7 +1380,7 @@
     ],
     "freeRaces": [],
     "gameId": 101702,
-    "name": "[皓月下的弓手]鲁道夫象征",
+    "name": "[皓月的神射手]鲁道夫象征",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -1414,7 +1414,7 @@
     ],
     "freeRaces": [],
     "gameId": 101801,
-    "name": "[女帝之路]气槽",
+    "name": "[女王之路]气槽",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -1448,7 +1448,7 @@
     ],
     "freeRaces": [],
     "gameId": 101802,
-    "name": "[荣誉橡木冠]气槽",
+    "name": "[橡木・王冠]气槽",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -1488,7 +1488,7 @@
       }
     ],
     "gameId": 101901,
-    "name": "[超特急！全彩特殊膜]爱丽数码",
+    "name": "[超特急！全彩特殊PP]爱丽数码",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -1525,7 +1525,7 @@
       }
     ],
     "gameId": 101902,
-    "name": "[爱丽♡殭尸]爱丽数码",
+    "name": "[爱丽♡僵尸]爱丽数码",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -1562,7 +1562,7 @@
       }
     ],
     "gameId": 102001,
-    "name": "[青云钓术]青云天空",
+    "name": "[青云Thumbing]青云天空",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -1602,7 +1602,7 @@
       }
     ],
     "gameId": 102002,
-    "name": "[小猫咪的晚宴]青云天空",
+    "name": "[猫咪舞会]青云天空",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -1689,7 +1689,7 @@
       }
     ],
     "gameId": 102102,
-    "name": "[荒暴雷神]玉藻十字",
+    "name": "[勇猛鸣神]玉藻十字",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -1731,7 +1731,7 @@
       }
     ],
     "gameId": 102201,
-    "name": "[Noble Seamair]美妙姿势",
+    "name": "[高贵三叶草]美妙姿势",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -1808,7 +1808,7 @@
     ],
     "freeRaces": [],
     "gameId": 102301,
-    "name": "[pf.Victory formula...]琵琶晨光",
+    "name": "[pf.胜利方程式…]琵琶晨光",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -1842,7 +1842,7 @@
     ],
     "freeRaces": [],
     "gameId": 102302,
-    "name": "[圣夜红袍颂歌]琵琶晨光",
+    "name": "[圣夜胭脂・颂歌]琵琶晨光",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -1916,7 +1916,7 @@
       }
     ],
     "gameId": 102401,
-    "name": "[急飞☆区域]重炮",
+    "name": "[竞争☆领域]摩耶重炮",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -1955,7 +1955,7 @@
       }
     ],
     "gameId": 102402,
-    "name": "[阳光捧花]重炮",
+    "name": "[日光・花束]摩耶重炮",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -1994,7 +1994,7 @@
       }
     ],
     "gameId": 102403,
-    "name": "[Rocking☆MewMeow]重炮",
+    "name": "[Rock in☆MewMeow]摩耶重炮",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -2033,7 +2033,7 @@
       }
     ],
     "gameId": 102501,
-    "name": "[Creeping Black]曼哈顿咖啡",
+    "name": "[匍匐黯影]曼城茶座",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -2073,7 +2073,7 @@
       }
     ],
     "gameId": 102502,
-    "name": "[柳绿小夜]曼哈顿咖啡",
+    "name": "[柳绿小夜]曼城茶座",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -2141,7 +2141,7 @@
     ],
     "freeRaces": [],
     "gameId": 102602,
-    "name": "[CODE：淋面装饰]美浦波旁",
+    "name": "[CODE：淋面]美浦波旁",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -2175,7 +2175,7 @@
     ],
     "freeRaces": [],
     "gameId": 102701,
-    "name": "[勇往直前]目白雷恩",
+    "name": "[Straight・Line]目白赖恩",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -2209,7 +2209,7 @@
     ],
     "freeRaces": [],
     "gameId": 102702,
-    "name": "[雏菊．拿铁]目白雷恩",
+    "name": "[木茼蒿・拿铁]目白赖恩",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -2254,7 +2254,7 @@
       }
     ],
     "gameId": 102801,
-    "name": "[Buono☆时尚]菱曙",
+    "name": "[曙☆a la moda]菱曙",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -2287,7 +2287,7 @@
     ],
     "freeRaces": [],
     "gameId": 102901,
-    "name": "[好口爱好口爱的银粟]雪之美人",
+    "name": "[楚楚可怜的六出之花]雪之美人",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -2322,7 +2322,7 @@
     ],
     "freeRaces": [],
     "gameId": 102902,
-    "name": "[小茶点小雪精]雪之美人",
+    "name": "[茶点的雪童子]雪之美人",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -2390,7 +2390,7 @@
     ],
     "freeRaces": [],
     "gameId": 103002,
-    "name": "[Make up Vampire!]米浴",
+    "name": "[化妆吸血鬼！]米浴",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -2462,7 +2462,7 @@
       }
     ],
     "gameId": 103101,
-    "name": "[全天候狂热]艾尼斯风神",
+    "name": "[全时狂热]艾尼斯风神",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -2534,7 +2534,7 @@
     ],
     "freeRaces": [],
     "gameId": 103201,
-    "name": "[tach-nology]爱丽速子",
+    "name": "[速子-技术]爱丽速子",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -2636,7 +2636,7 @@
     ],
     "freeRaces": [],
     "gameId": 103301,
-    "name": "[Starry Nocturne]爱慕织姬",
+    "name": "[星光夜想曲]爱慕织姬",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -2669,7 +2669,7 @@
     ],
     "freeRaces": [],
     "gameId": 103302,
-    "name": "[Glacialis Vega]爱慕织姬",
+    "name": "[Glacialis Vega]アドマイヤベガ",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -2708,7 +2708,7 @@
       }
     ],
     "gameId": 103401,
-    "name": "[稻荷因缘江户紫]稻荷一",
+    "name": "[稻荷所缘江户紫]稻荷一",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -2780,7 +2780,7 @@
     ],
     "freeRaces": [],
     "gameId": 103501,
-    "name": "[Go To Winning!]胜利奖券",
+    "name": "[奔向胜利！]胜利奖券",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -2952,7 +2952,7 @@
     ],
     "freeRaces": [],
     "gameId": 103701,
-    "name": "[Meisterschaft]荣进闪耀",
+    "name": "[冠军地位]荣进闪耀",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -2987,7 +2987,7 @@
     ],
     "freeRaces": [],
     "gameId": 103702,
-    "name": "[精确无比巧克力师]荣进闪耀",
+    "name": "[COLLECT・巧克力职人]荣进闪耀",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -3063,7 +3063,7 @@
       }
     ],
     "gameId": 103801,
-    "name": "[闪光少女]真机伶",
+    "name": "[闪电・少女]真机伶",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -3102,7 +3102,7 @@
       }
     ],
     "gameId": 103802,
-    "name": "[朔月甜心]真机伶",
+    "name": "[朔月Ma・chérie]真机伶",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -3141,7 +3141,7 @@
       }
     ],
     "gameId": 103901,
-    "name": "[Princess of pink]川上公主",
+    "name": "[粉色公主]川上公主",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -3213,7 +3213,7 @@
     ],
     "freeRaces": [],
     "gameId": 104001,
-    "name": "[纯正/1928]黄金城市",
+    "name": "[真我/1928]黄金城市",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -3283,7 +3283,7 @@
     ],
     "freeRaces": [],
     "gameId": 104101,
-    "name": "[前进吧！樱花]樱花蓦进王",
+    "name": "[樱花，前进！]樱花进王",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -3319,7 +3319,7 @@
     ],
     "freeRaces": [],
     "gameId": 104102,
-    "name": "[炽红☆领队]樱花蓦进王",
+    "name": "[炽红☆领队]樱花进王",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -3465,7 +3465,7 @@
     ],
     "freeRaces": [],
     "gameId": 104401,
-    "name": "[悬铃木魔女]东商变革",
+    "name": "[悬铃木・魔女]东商变革",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -3535,7 +3535,7 @@
     ],
     "freeRaces": [],
     "gameId": 104501,
-    "name": "[低语溪流]超级小溪",
+    "name": "[潺潺溪流]超级溪流",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -3568,7 +3568,7 @@
     ],
     "freeRaces": [],
     "gameId": 104502,
-    "name": "[雪纺缎带木乃伊]超级小溪",
+    "name": "[雪纺丝带Mummy]超级溪流",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -3601,7 +3601,7 @@
     ],
     "freeRaces": [],
     "gameId": 104503,
-    "name": "[慈雨华影]超级小溪",
+    "name": "[慈雨华影]超级溪流",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -3640,7 +3640,7 @@
       }
     ],
     "gameId": 104601,
-    "name": "[绝对纯粹☆LOVE]醒目飞鹰",
+    "name": "[绝对☆LOVE]醒目飞鹰",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -3839,7 +3839,7 @@
     ],
     "freeRaces": [],
     "gameId": 104801,
-    "name": "[POPS☆JOKER]东瀛佐敦",
+    "name": "[Pops☆Joker]东瀛佐敦",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -3940,7 +3940,7 @@
     ],
     "freeRaces": [],
     "gameId": 105001,
-    "name": "[Nevertheless]成田大进",
+    "name": "[尽管如此]成田大进",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -4008,7 +4008,7 @@
     ],
     "freeRaces": [],
     "gameId": 105003,
-    "name": "[迷光Override]成田大进",
+    "name": "[迷光超控]成田大进",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -4042,7 +4042,7 @@
     ],
     "freeRaces": [],
     "gameId": 105101,
-    "name": "[重瓣花朵]西野花",
+    "name": "[层层花瓣]西野花",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -4126,7 +4126,7 @@
       }
     ],
     "gameId": 105201,
-    "name": "[乌菈菈得第一♪]春乌菈菈",
+    "name": "[乌拉拉一等奖♪]春丽",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -4173,7 +4173,7 @@
       }
     ],
     "gameId": 105202,
-    "name": "[初乌菈菈♪樱花绽放]春乌菈菈",
+    "name": "[初春乌拉拉♪盛开樱花花]春丽",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -4296,7 +4296,7 @@
       }
     ],
     "gameId": 105401,
-    "name": "[疾风飞马・零式]微光飞驹",
+    "name": "[疾风天马・零式]微光飞驹",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -4376,7 +4376,7 @@
       }
     ],
     "gameId": 105601,
-    "name": "[运势上升☆好运临门]待兼福来",
+    "name": "[运气上升☆幸福万来]待兼福来",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -4414,7 +4414,7 @@
       }
     ],
     "gameId": 105602,
-    "name": "[吉兆初现]待兼福来",
+    "name": "[吉兆·初岚]待兼福来",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -4480,7 +4480,7 @@
     ],
     "freeRaces": [],
     "gameId": 105702,
-    "name": "[绚烂花道歌舞的你]千明代表",
+    "name": "[絢爛花道歌舞く君]ミスターシービー",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -4525,7 +4525,7 @@
       }
     ],
     "gameId": 105801,
-    "name": "[湛蓝/涌涛]名将怒涛",
+    "name": "[苍蓝/怒涛]名将怒涛",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -4600,7 +4600,7 @@
     ],
     "freeRaces": [],
     "gameId": 105901,
-    "name": "[Twisted Line]目白多伯",
+    "name": "[Twisted・Line]目白多伯",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -4635,7 +4635,7 @@
     ],
     "freeRaces": [],
     "gameId": 105902,
-    "name": "[蓝宝石假期]目白多伯",
+    "name": "[假日・蓝宝石]目白多伯",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -4670,7 +4670,7 @@
     ],
     "freeRaces": [],
     "gameId": 106001,
-    "name": "[圣诞红缎带]优秀素质",
+    "name": "[一品红缎带]优秀素质",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -4738,7 +4738,7 @@
     ],
     "freeRaces": [],
     "gameId": 106003,
-    "name": "[层层累积的心意]优秀素质",
+    "name": "[心意层叠]优秀素质",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -4772,7 +4772,7 @@
     ],
     "freeRaces": [],
     "gameId": 106101,
-    "name": "[绿宝石之王]帝王光辉",
+    "name": "[绿宝石之王]圣王光环",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -4806,7 +4806,7 @@
     ],
     "freeRaces": [],
     "gameId": 106102,
-    "name": "[洁白高贵的激励之服]帝王光辉",
+    "name": "[洁白崇高的应援服]圣王光环",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -4840,7 +4840,7 @@
     ],
     "freeRaces": [],
     "gameId": 106103,
-    "name": "[Evergreen Identity]帝王光辉",
+    "name": "[Evergreen Identity]圣王光环",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -4880,7 +4880,7 @@
       }
     ],
     "gameId": 106201,
-    "name": "[锵锵～斜装登场]待兼诗歌剧",
+    "name": "[邦邦邦Tiltott]待兼诗歌剧",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -5146,7 +5146,7 @@
       }
     ],
     "gameId": 106601,
-    "name": "[暴冲！涡轮引擎]双涡轮",
+    "name": "[爆走！涡轮发动机]双涡轮",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -5177,7 +5177,7 @@
     ],
     "freeRaces": [],
     "gameId": 106701,
-    "name": "[Natural Brilliance]里见光钻",
+    "name": "[天然莹彩]里见光钻",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -5212,7 +5212,7 @@
     ],
     "freeRaces": [],
     "gameId": 106702,
-    "name": "[当家花旦・弥荣之翠]里见光钻",
+    "name": "[花形・弥荣之翠]里见光钻",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -5288,7 +5288,7 @@
       }
     ],
     "gameId": 106801,
-    "name": "[锦上．大判御舆]北部玄驹",
+    "name": "[锦上・大判神轿]北部玄驹",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -5329,7 +5329,7 @@
       }
     ],
     "gameId": 106802,
-    "name": "[压轴好戏・庆鹤之志]北部玄驹",
+    "name": "[真打・庆鹤之志]北部玄驹",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -5405,7 +5405,7 @@
     ],
     "freeRaces": [],
     "gameId": 106901,
-    "name": "[天下第一花满天]樱花千代王",
+    "name": "[日下开山・樱满天]樱花千代王",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -5506,7 +5506,7 @@
     ],
     "freeRaces": [],
     "gameId": 107002,
-    "name": "[Louve stellaire]天狼象征",
+    "name": "[Louve stellaire]シリウスシンボリ",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -5547,7 +5547,7 @@
       }
     ],
     "gameId": 107101,
-    "name": "[Clinochlore Line]目白阿尔丹",
+    "name": "[Clinochlore・Line]目白阿尔丹",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -5617,7 +5617,7 @@
     ],
     "freeRaces": [],
     "gameId": 107201,
-    "name": "[四白流星袭击]八重无敌",
+    "name": "[四白流星的猛袭]八重无敌",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -5651,7 +5651,7 @@
     ],
     "freeRaces": [],
     "gameId": 107202,
-    "name": "[黒将Zen]八重无敌",
+    "name": "[黑将Zen]八重无敌",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -5691,7 +5691,7 @@
       }
     ],
     "gameId": 107301,
-    "name": "[志向高远，意志坚强！]鹤丸刚志",
+    "name": "[志、高し、強し！]ツルマルツヨシ",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -5723,7 +5723,7 @@
     ],
     "freeRaces": [],
     "gameId": 107401,
-    "name": "[Vernissage Line]目白光明",
+    "name": "[Brunissage・Line]目白光明",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -5885,7 +5885,7 @@
       }
     ],
     "gameId": 107702,
-    "name": "[Celestial Road]成田路",
+    "name": "[Celestial Road]ナリタトップロード",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -5953,7 +5953,7 @@
     ],
     "freeRaces": [],
     "gameId": 107802,
-    "name": "[Sugary Wind]也文摄辉",
+    "name": "[Sugary Wind]ヤマニンゼファー",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -5986,7 +5986,7 @@
     ],
     "freeRaces": [],
     "gameId": 107901,
-    "name": "[衣锦还乡的吉祥之星]狂怒乐章",
+    "name": "[衣錦還郷の瑞星]フリオーソ",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -6217,7 +6217,7 @@
     ],
     "freeRaces": [],
     "gameId": 108402,
-    "name": "[With a Twist]谷野美酒",
+    "name": "[With a Twist]タニノギムレット",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -6337,6 +6337,40 @@
     ],
     "star": 5
   },
+  "108602": {
+    "bonusData": [],
+    "fiveStatusBonus": [
+      0,
+      0,
+      15,
+      5,
+      10
+    ],
+    "fiveStatusInitial": [
+      112,
+      96,
+      121,
+      115,
+      106
+    ],
+    "freeRaces": [],
+    "gameId": 108602,
+    "name": "[Untouchable Eden]メジロラモーヌ",
+    "preferRaces": [],
+    "preferReds": [],
+    "races": [
+      11,
+      22,
+      30,
+      33,
+      43,
+      56,
+      59,
+      68,
+      69
+    ],
+    "star": 5
+  },
   "108701": {
     "bonusData": [],
     "fiveStatusBonus": [
@@ -6388,7 +6422,7 @@
     ],
     "freeRaces": [],
     "gameId": 108702,
-    "name": "[无法融化的糖果]真弓快车",
+    "name": "[溶けない砂糖菓子]アストンマーチャン",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -6619,7 +6653,7 @@
     ],
     "freeRaces": [],
     "gameId": 109401,
-    "name": "[王者的吶喊]森林宝穴",
+    "name": "[王者的呐喊]森林宝穴",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -6779,7 +6813,7 @@
       }
     ],
     "gameId": 109901,
-    "name": "[Star・Light・Ship]北港樽前",
+    "name": "[Star・Light・Ship]北港火山",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -6819,7 +6853,7 @@
       }
     ],
     "gameId": 109902,
-    "name": "[海边粉彩・地方偶像]北港樽前",
+    "name": "[海边粉彩・地方偶像]北港火山",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -6980,7 +7014,7 @@
       }
     ],
     "gameId": 110402,
-    "name": "[雅号・墨龙]葛城王牌",
+    "name": "[雅号・墨龍]カツラギエース",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -7294,6 +7328,39 @@
     ],
     "star": 5
   },
+  "111002": {
+    "bonusData": [],
+    "fiveStatusBonus": [
+      0,
+      0,
+      10,
+      20,
+      0
+    ],
+    "fiveStatusInitial": [
+      110,
+      112,
+      122,
+      104,
+      102
+    ],
+    "freeRaces": [],
+    "gameId": 111002,
+    "name": "[Twinbell Queen]シーザリオ",
+    "preferRaces": [],
+    "preferReds": [],
+    "races": [
+      11,
+      29,
+      30,
+      33,
+      43,
+      56,
+      68,
+      69
+    ],
+    "star": 5
+  },
   "111101": {
     "bonusData": [],
     "fiveStatusBonus": [
@@ -7318,7 +7385,7 @@
       }
     ],
     "gameId": 111101,
-    "name": "[Inherited Hope]空中救主",
+    "name": "[Inherited Hope]エアメサイア",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -7356,7 +7423,7 @@
       }
     ],
     "gameId": 111501,
-    "name": "[总揽]黄金巨匠",
+    "name": "[総攬]オルフェーヴル",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -7432,7 +7499,7 @@
       }
     ],
     "gameId": 111701,
-    "name": "[Dramatic・Chuchu]凯旋芭蕾",
+    "name": "[ドラマティック・チュチュ]ウインバリアシオン",
     "preferRaces": [],
     "preferReds": [],
     "races": [
