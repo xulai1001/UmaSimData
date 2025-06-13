@@ -7766,5 +7766,39 @@
       69
     ],
     "star": 5
+  },
+  "113301": {
+    "bonusData": [],
+    "fiveStatusBonus": [
+      10,
+      10,
+      0,
+      10,
+      0
+    ],
+    "fiveStatusInitial": [
+      116,
+      109,
+      106,
+      100,
+      119
+    ],
+    "freeRaces": [],
+    "gameId": 113301,
+    "name": "[陸離の編纂者]クロノジェネシス",
+    "preferRaces": [],
+    "preferReds": [],
+    "races": [
+      11,
+      22,
+      30,
+      33,
+      43,
+      53,
+      59,
+      67,
+      71
+    ],
+    "star": 5
   }
 }
