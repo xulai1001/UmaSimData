@@ -3265,6 +3265,41 @@
     ],
     "star": 5
   },
+  "104003": {
+    "bonusData": [],
+    "fiveStatusBonus": [
+      0,
+      10,
+      0,
+      15,
+      5
+    ],
+    "fiveStatusInitial": [
+      104,
+      125,
+      118,
+      101,
+      102
+    ],
+    "freeRaces": [],
+    "gameId": 104003,
+    "name": "[Boho Flare]ゴールドシチー",
+    "preferRaces": [],
+    "preferReds": [],
+    "races": [
+      11,
+      22,
+      30,
+      33,
+      43,
+      47,
+      53,
+      55,
+      59,
+      69
+    ],
+    "star": 5
+  },
   "104101": {
     "bonusData": [],
     "fiveStatusBonus": [

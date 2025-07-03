@@ -22214,6 +22214,191 @@
       }
     ]
   },
+  "10128": {
+    "cardId": 10128,
+    "charaId": 9049,
+    "cardName": "[友]塔可布莱恩",
+    "fullName": "[无人岛项目负责人]塔可布莱恩",
+    "rarity": 1,
+    "cardType": 5,
+    "cardValue": [
+      {
+        "filled": true,
+        "bonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "initialBonus": [
+          0,
+          15,
+          0,
+          0,
+          0,
+          0
+        ],
+        "hintBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          5
+        ],
+        "hintLevel": 0,
+        "ganJing": 15,
+        "xunLian": 5,
+        "initialJiBan": 15,
+        "eventRecoveryAmountUp": 20,
+        "eventEffectUp": 10,
+        "failRateDrop": 5,
+        "vitalCostDrop": 5
+      },
+      {
+        "filled": true,
+        "bonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "initialBonus": [
+          0,
+          16,
+          0,
+          0,
+          0,
+          0
+        ],
+        "hintBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          5
+        ],
+        "hintLevel": 0,
+        "ganJing": 18,
+        "xunLian": 5,
+        "initialJiBan": 16,
+        "eventRecoveryAmountUp": 23,
+        "eventEffectUp": 11,
+        "failRateDrop": 6,
+        "vitalCostDrop": 6
+      },
+      {
+        "filled": true,
+        "bonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "initialBonus": [
+          0,
+          18,
+          0,
+          0,
+          0,
+          0
+        ],
+        "hintBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          5
+        ],
+        "hintLevel": 0,
+        "ganJing": 21,
+        "xunLian": 5,
+        "initialJiBan": 18,
+        "eventRecoveryAmountUp": 26,
+        "eventEffectUp": 13,
+        "failRateDrop": 8,
+        "vitalCostDrop": 8
+      },
+      {
+        "filled": true,
+        "bonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "initialBonus": [
+          0,
+          20,
+          0,
+          0,
+          0,
+          0
+        ],
+        "hintBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          5
+        ],
+        "hintLevel": 0,
+        "ganJing": 25,
+        "xunLian": 5,
+        "initialJiBan": 20,
+        "eventRecoveryAmountUp": 30,
+        "eventEffectUp": 15,
+        "failRateDrop": 10,
+        "vitalCostDrop": 10
+      },
+      {
+        "filled": true,
+        "bonus": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "initialBonus": [
+          0,
+          20,
+          0,
+          0,
+          0,
+          0
+        ],
+        "hintBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          5
+        ],
+        "hintLevel": 0,
+        "ganJing": 25,
+        "xunLian": 5,
+        "initialJiBan": 20,
+        "eventRecoveryAmountUp": 30,
+        "eventEffectUp": 15,
+        "failRateDrop": 10,
+        "vitalCostDrop": 10
+      }
+    ]
+  },
   "20001": {
     "cardId": 20001,
     "charaId": 1005,
@@ -82448,8 +82633,8 @@
   "30242": {
     "cardId": 30242,
     "charaId": 1129,
-    "cardName": "[速]アーモンドアイ",
-    "fullName": "[世界を変える眼差し]アーモンドアイ",
+    "cardName": "[速]杏目",
+    "fullName": "[改变世界的目光]杏目",
     "rarity": 3,
     "cardType": 0,
     "cardValue": [
@@ -85158,6 +85343,391 @@
       1,
       7,
       1
+    ]
+  },
+  "30256": {
+    "cardId": 30256,
+    "charaId": 1021,
+    "cardName": "[力]タマモクロス",
+    "fullName": "[白き稲妻の如く]タマモクロス",
+    "rarity": 3,
+    "cardType": 2,
+    "cardValue": [
+      {
+        "filled": true,
+        "bonus": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "initialBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          15
+        ],
+        "hintBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          15
+        ],
+        "hintLevel": 3,
+        "youQing": 28,
+        "xunLian": 0,
+        "initialJiBan": 25,
+        "saiHou": 5,
+        "hintProbIncrease": 40,
+        "deYiLv": 60
+      },
+      {
+        "filled": true,
+        "bonus": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          1
+        ],
+        "initialBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          18
+        ],
+        "hintBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          15
+        ],
+        "hintLevel": 3,
+        "youQing": 31,
+        "xunLian": 0,
+        "initialJiBan": 27,
+        "saiHou": 6,
+        "hintProbIncrease": 42,
+        "deYiLv": 70
+      },
+      {
+        "filled": true,
+        "bonus": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          1
+        ],
+        "initialBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          22
+        ],
+        "hintBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          15
+        ],
+        "hintLevel": 3,
+        "youQing": 34,
+        "xunLian": 0,
+        "initialJiBan": 30,
+        "saiHou": 7,
+        "hintProbIncrease": 45,
+        "deYiLv": 80
+      },
+      {
+        "filled": true,
+        "bonus": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          1
+        ],
+        "initialBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          26
+        ],
+        "hintBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          15
+        ],
+        "hintLevel": 3,
+        "youQing": 37,
+        "xunLian": 5,
+        "initialJiBan": 32,
+        "saiHou": 8,
+        "hintProbIncrease": 47,
+        "deYiLv": 90
+      },
+      {
+        "filled": true,
+        "bonus": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          1
+        ],
+        "initialBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          30
+        ],
+        "hintBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          20
+        ],
+        "hintLevel": 4,
+        "youQing": 40,
+        "xunLian": 10,
+        "initialJiBan": 35,
+        "saiHou": 10,
+        "hintProbIncrease": 50,
+        "deYiLv": 100
+      }
+    ],
+    "uniqueEffectType": 13,
+    "uniqueEffectSummary": "参加友情训练时，ganJing(60)",
+    "uniqueEffectParam": [
+      113,
+      2,
+      60,
+      0,
+      0,
+      0
+    ]
+  },
+  "30257": {
+    "cardId": 30257,
+    "charaId": 9049,
+    "cardName": "[友]タッカーブライン",
+    "fullName": "[本能は吼えているか！？]タッカーブライン",
+    "rarity": 3,
+    "cardType": 5,
+    "cardValue": [
+      {
+        "filled": true,
+        "bonus": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "initialBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "hintBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          5
+        ],
+        "hintLevel": 0,
+        "ganJing": 20,
+        "xunLian": 5,
+        "initialJiBan": 20,
+        "eventRecoveryAmountUp": 40,
+        "eventEffectUp": 20,
+        "failRateDrop": 15,
+        "vitalCostDrop": 10
+      },
+      {
+        "filled": true,
+        "bonus": [
+          0,
+          1,
+          0,
+          1,
+          0,
+          0
+        ],
+        "initialBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "hintBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          5
+        ],
+        "hintLevel": 0,
+        "ganJing": 23,
+        "xunLian": 6,
+        "initialJiBan": 21,
+        "eventRecoveryAmountUp": 45,
+        "eventEffectUp": 22,
+        "failRateDrop": 16,
+        "vitalCostDrop": 13
+      },
+      {
+        "filled": true,
+        "bonus": [
+          0,
+          1,
+          0,
+          1,
+          0,
+          0
+        ],
+        "initialBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "hintBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          5
+        ],
+        "hintLevel": 0,
+        "ganJing": 26,
+        "xunLian": 8,
+        "initialJiBan": 23,
+        "eventRecoveryAmountUp": 50,
+        "eventEffectUp": 25,
+        "failRateDrop": 18,
+        "vitalCostDrop": 16
+      },
+      {
+        "filled": true,
+        "bonus": [
+          0,
+          1,
+          0,
+          1,
+          0,
+          0
+        ],
+        "initialBonus": [
+          0,
+          15,
+          0,
+          0,
+          0,
+          0
+        ],
+        "hintBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          5
+        ],
+        "hintLevel": 0,
+        "ganJing": 30,
+        "xunLian": 10,
+        "initialJiBan": 25,
+        "eventRecoveryAmountUp": 55,
+        "eventEffectUp": 27,
+        "failRateDrop": 20,
+        "vitalCostDrop": 20
+      },
+      {
+        "filled": true,
+        "bonus": [
+          0,
+          1,
+          0,
+          1,
+          0,
+          0
+        ],
+        "initialBonus": [
+          0,
+          30,
+          0,
+          0,
+          0,
+          0
+        ],
+        "hintBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          5
+        ],
+        "hintLevel": 0,
+        "ganJing": 30,
+        "xunLian": 10,
+        "initialJiBan": 25,
+        "eventRecoveryAmountUp": 60,
+        "eventEffectUp": 30,
+        "failRateDrop": 20,
+        "vitalCostDrop": 20
+      }
+    ],
+    "uniqueEffectType": 23,
+    "uniqueEffectSummary": "",
+    "uniqueEffectParam": [
+      122,
+      19,
+      60,
+      0,
+      0,
+      0
     ]
   },
   "30260": {
