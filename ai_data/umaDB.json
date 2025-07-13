@@ -2516,6 +2516,45 @@
     ],
     "star": 5
   },
+  "103103": {
+    "bonusData": [],
+    "fiveStatusBonus": [
+      12,
+      0,
+      10,
+      8,
+      0
+    ],
+    "fiveStatusInitial": [
+      126,
+      105,
+      108,
+      104,
+      107
+    ],
+    "freeRaces": [
+      {
+        "startTurn": 69,
+        "endTurn": 71,
+        "count": 1
+      }
+    ],
+    "gameId": 103103,
+    "name": "[Hello Hello Island]アイネスフウジン",
+    "preferRaces": [],
+    "preferReds": [],
+    "races": [
+      11,
+      22,
+      30,
+      33,
+      43,
+      53,
+      59,
+      67
+    ],
+    "star": 5
+  },
   "103201": {
     "bonusData": [],
     "fiveStatusBonus": [
