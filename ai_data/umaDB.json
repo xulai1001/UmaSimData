@@ -6546,6 +6546,41 @@
     ],
     "star": 5
   },
+  "108802": {
+    "bonusData": [],
+    "fiveStatusBonus": [
+      0,
+      10,
+      6,
+      14,
+      0
+    ],
+    "fiveStatusInitial": [
+      117,
+      120,
+      115,
+      102,
+      96
+    ],
+    "freeRaces": [],
+    "gameId": 108802,
+    "name": "[晴島花麗]サトノクラウン",
+    "preferRaces": [],
+    "preferReds": [],
+    "races": [
+      11,
+      21,
+      28,
+      30,
+      33,
+      50,
+      53,
+      59,
+      67,
+      69
+    ],
+    "star": 5
+  },
   "108901": {
     "bonusData": [],
     "fiveStatusBonus": [
@@ -6576,6 +6611,48 @@
     ],
     "gameId": 108901,
     "name": "[Grand itinéraire]高尚骏逸",
+    "preferRaces": [],
+    "preferReds": [],
+    "races": [
+      11,
+      53,
+      55,
+      59,
+      66,
+      69
+    ],
+    "star": 5
+  },
+  "108902": {
+    "bonusData": [],
+    "fiveStatusBonus": [
+      0,
+      10,
+      0,
+      20,
+      0
+    ],
+    "fiveStatusInitial": [
+      96,
+      131,
+      93,
+      119,
+      111
+    ],
+    "freeRaces": [
+      {
+        "startTurn": 12,
+        "endTurn": 23,
+        "count": 1
+      },
+      {
+        "startTurn": 24,
+        "endTurn": 46,
+        "count": 3
+      }
+    ],
+    "gameId": 108902,
+    "name": "[夏凪ネイビードロップ]シュヴァルグラン",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -7369,6 +7446,41 @@
     ],
     "star": 5
   },
+  "110902": {
+    "bonusData": [],
+    "fiveStatusBonus": [
+      5,
+      0,
+      15,
+      0,
+      10
+    ],
+    "fiveStatusInitial": [
+      106,
+      111,
+      120,
+      115,
+      98
+    ],
+    "freeRaces": [],
+    "gameId": 110902,
+    "name": "[Eternal Fairytale]ラインクラフト",
+    "preferRaces": [],
+    "preferReds": [],
+    "races": [
+      11,
+      22,
+      28,
+      30,
+      32,
+      43,
+      53,
+      56,
+      65,
+      68
+    ],
+    "star": 5
+  },
   "111001": {
     "bonusData": [],
     "fiveStatusBonus": [
@@ -7469,6 +7581,40 @@
       43,
       44,
       56,
+      68
+    ],
+    "star": 5
+  },
+  "111301": {
+    "bonusData": [],
+    "fiveStatusBonus": [
+      0,
+      10,
+      0,
+      10,
+      10
+    ],
+    "fiveStatusInitial": [
+      116,
+      115,
+      104,
+      102,
+      113
+    ],
+    "freeRaces": [],
+    "gameId": 111301,
+    "name": "[Assorted Cuteness♡]フサイチパンドラ",
+    "preferRaces": [],
+    "preferReds": [],
+    "races": [
+      11,
+      22,
+      30,
+      33,
+      43,
+      44,
+      56,
+      63,
       68
     ],
     "star": 5
