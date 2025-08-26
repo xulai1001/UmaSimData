@@ -6744,6 +6744,46 @@
     ],
     "star": 5
   },
+  "109102": {
+    "bonusData": [],
+    "fiveStatusBonus": [
+      10,
+      0,
+      0,
+      10,
+      10
+    ],
+    "fiveStatusInitial": [
+      115,
+      97,
+      120,
+      104,
+      114
+    ],
+    "freeRaces": [
+      {
+        "startTurn": 12,
+        "endTurn": 29,
+        "count": 1
+      }
+    ],
+    "gameId": 109102,
+    "name": "[Éclat d'été]ヴィブロス",
+    "preferRaces": [],
+    "preferReds": [],
+    "races": [
+      11,
+      30,
+      33,
+      40,
+      43,
+      51,
+      56,
+      59,
+      69
+    ],
+    "star": 5
+  },
   "109301": {
     "bonusData": [],
     "fiveStatusBonus": [
@@ -6856,6 +6896,46 @@
       47,
       59,
       67,
+      69
+    ],
+    "star": 5
+  },
+  "109701": {
+    "bonusData": [],
+    "fiveStatusBonus": [
+      0,
+      10,
+      10,
+      10,
+      0
+    ],
+    "fiveStatusInitial": [
+      112,
+      109,
+      119,
+      110,
+      100
+    ],
+    "freeRaces": [
+      {
+        "startTurn": 12,
+        "endTurn": 24,
+        "count": 1
+      }
+    ],
+    "gameId": 109701,
+    "name": "[緋想の誓衣]スティルインラブ",
+    "preferRaces": [],
+    "preferReds": [],
+    "races": [
+      11,
+      30,
+      33,
+      43,
+      44,
+      52,
+      59,
+      68,
       69
     ],
     "star": 5
@@ -7603,7 +7683,7 @@
     ],
     "freeRaces": [],
     "gameId": 111301,
-    "name": "[Assorted Cuteness♡]フサイチパンドラ",
+    "name": "[Assorted Cuteness♡]房一潘多拉",
     "preferRaces": [],
     "preferReds": [],
     "races": [
