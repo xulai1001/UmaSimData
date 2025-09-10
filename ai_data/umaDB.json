@@ -6118,6 +6118,49 @@
     ],
     "star": 5
   },
+  "108101": {
+    "bonusData": [],
+    "fiveStatusBonus": [
+      0,
+      0,
+      10,
+      20,
+      0
+    ],
+    "fiveStatusInitial": [
+      114,
+      97,
+      115,
+      116,
+      108
+    ],
+    "freeRaces": [
+      {
+        "startTurn": 12,
+        "endTurn": 25,
+        "count": 1
+      },
+      {
+        "startTurn": 26,
+        "endTurn": 37,
+        "count": 1
+      }
+    ],
+    "gameId": 108101,
+    "name": "[Red Devil Gear]エスポワールシチー",
+    "preferRaces": [],
+    "preferReds": [],
+    "races": [
+      11,
+      42,
+      46,
+      51,
+      56,
+      59,
+      66
+    ],
+    "star": 5
+  },
   "108201": {
     "bonusData": [],
     "fiveStatusBonus": [
@@ -6826,6 +6869,48 @@
     ],
     "star": 5
   },
+  "109302": {
+    "bonusData": [],
+    "fiveStatusBonus": [
+      15,
+      0,
+      15,
+      0,
+      0
+    ],
+    "fiveStatusInitial": [
+      128,
+      80,
+      118,
+      112,
+      112
+    ],
+    "freeRaces": [
+      {
+        "startTurn": 12,
+        "endTurn": 31,
+        "count": 1
+      }
+    ],
+    "gameId": 109302,
+    "name": "[秋日色アンダンテ]ケイエスミラクル",
+    "preferRaces": [],
+    "preferReds": [],
+    "races": [
+      11,
+      33,
+      35,
+      39,
+      40,
+      41,
+      43,
+      45,
+      53,
+      58,
+      65
+    ],
+    "star": 5
+  },
   "109401": {
     "bonusData": [],
     "fiveStatusBonus": [
@@ -7368,6 +7453,45 @@
     ],
     "gameId": 110601,
     "name": "[Miracle Make-up!]菱钻奇宝",
+    "preferRaces": [],
+    "preferReds": [],
+    "races": [
+      11,
+      41,
+      43,
+      55,
+      59,
+      67,
+      69,
+      71
+    ],
+    "star": 5
+  },
+  "110602": {
+    "bonusData": [],
+    "fiveStatusBonus": [
+      0,
+      14,
+      8,
+      8,
+      0
+    ],
+    "fiveStatusInitial": [
+      112,
+      101,
+      125,
+      103,
+      109
+    ],
+    "freeRaces": [
+      {
+        "startTurn": 12,
+        "endTurn": 33,
+        "count": 1
+      }
+    ],
+    "gameId": 110602,
+    "name": "[ハッピー・リトル・ノーツ]ヒシミラクル",
     "preferRaces": [],
     "preferReds": [],
     "races": [
