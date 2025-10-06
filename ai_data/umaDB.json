@@ -2269,6 +2269,50 @@
     ],
     "star": 5
   },
+  "102802": {
+    "bonusData": [],
+    "fiveStatusBonus": [
+      0,
+      0,
+      30,
+      0,
+      0
+    ],
+    "fiveStatusInitial": [
+      111,
+      72,
+      138,
+      123,
+      106
+    ],
+    "freeRaces": [
+      {
+        "startTurn": 12,
+        "endTurn": 22,
+        "count": 1
+      },
+      {
+        "startTurn": 23,
+        "endTurn": 36,
+        "count": 1
+      }
+    ],
+    "gameId": 102802,
+    "name": "[マジックナイトガーランド]ヒシアケボノ",
+    "preferRaces": [],
+    "preferReds": [],
+    "races": [
+      11,
+      41,
+      43,
+      45,
+      53,
+      58,
+      65,
+      69
+    ],
+    "star": 5
+  },
   "102901": {
     "bonusData": [],
     "fiveStatusBonus": [
@@ -4412,6 +4456,45 @@
     ],
     "gameId": 105501,
     "name": "[☆闪亮★心动☆雀跃∞美丽∞]美丽周日",
+    "preferRaces": [],
+    "preferReds": [],
+    "races": [
+      11,
+      46,
+      53,
+      55,
+      59,
+      67,
+      69,
+      71
+    ],
+    "star": 5
+  },
+  "105502": {
+    "bonusData": [],
+    "fiveStatusBonus": [
+      0,
+      16,
+      7,
+      7,
+      0
+    ],
+    "fiveStatusInitial": [
+      114,
+      117,
+      116,
+      96,
+      107
+    ],
+    "freeRaces": [
+      {
+        "startTurn": 12,
+        "endTurn": 26,
+        "count": 1
+      }
+    ],
+    "gameId": 105502,
+    "name": "[トリック☆リボネッタ]マーベラスサンデー",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -6943,6 +7026,39 @@
       55,
       69,
       71
+    ],
+    "star": 5
+  },
+  "109501": {
+    "bonusData": [],
+    "fiveStatusBonus": [
+      0,
+      0,
+      10,
+      10,
+      10
+    ],
+    "fiveStatusInitial": [
+      126,
+      78,
+      122,
+      113,
+      111
+    ],
+    "freeRaces": [],
+    "gameId": 109501,
+    "name": "[精粋]ビリーヴ",
+    "preferRaces": [],
+    "preferReds": [],
+    "races": [
+      11,
+      29,
+      39,
+      40,
+      41,
+      53,
+      64,
+      65
     ],
     "star": 5
   },
