@@ -4007,6 +4007,40 @@
     ],
     "star": 5
   },
+  "104803": {
+    "bonusData": [],
+    "fiveStatusBonus": [
+      0,
+      10,
+      10,
+      10,
+      0
+    ],
+    "fiveStatusInitial": [
+      118,
+      113,
+      118,
+      104,
+      97
+    ],
+    "freeRaces": [],
+    "gameId": 104803,
+    "name": "[Highkey☆Hallowed]トーセンジョーダン",
+    "preferRaces": [],
+    "preferReds": [],
+    "races": [
+      11,
+      23,
+      30,
+      44,
+      47,
+      53,
+      55,
+      59,
+      67
+    ],
+    "star": 5
+  },
   "104901": {
     "bonusData": [],
     "fiveStatusBonus": [
