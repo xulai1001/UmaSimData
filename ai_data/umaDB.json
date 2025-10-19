@@ -6944,6 +6944,42 @@
     ],
     "star": 5
   },
+  "109201": {
+    "bonusData": [],
+    "fiveStatusBonus": [
+      0,
+      10,
+      0,
+      20,
+      0
+    ],
+    "fiveStatusInitial": [
+      110,
+      113,
+      100,
+      116,
+      111
+    ],
+    "freeRaces": [],
+    "gameId": 109201,
+    "name": "[まんなか◎スポットライト]ダンツフレーム",
+    "preferRaces": [],
+    "preferReds": [],
+    "races": [
+      11,
+      26,
+      30,
+      33,
+      43,
+      45,
+      56,
+      59,
+      59,
+      67,
+      69
+    ],
+    "star": 5
+  },
   "109301": {
     "bonusData": [],
     "fiveStatusBonus": [
