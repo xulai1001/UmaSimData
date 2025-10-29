@@ -356,7 +356,7 @@
     ],
     "freeRaces": [],
     "gameId": 100403,
-    "name": "[祝ひ寿ぐ神速天女]マルゼンスキー",
+    "name": "[祝ひ寿ぐ神速天女]丸善斯基",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -916,7 +916,7 @@
     ],
     "freeRaces": [],
     "gameId": 101103,
-    "name": "[蒼炎の誉]グラスワンダー",
+    "name": "[蒼炎の誉]草上飞",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -2298,7 +2298,7 @@
       }
     ],
     "gameId": 102802,
-    "name": "[マジックナイトガーランド]ヒシアケボノ",
+    "name": "[マジックナイトガーランド]菱曙",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -2584,7 +2584,7 @@
       }
     ],
     "gameId": 103103,
-    "name": "[Hello Hello Island]アイネスフウジン",
+    "name": "[Hello Hello Island]艾尼斯风神",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -2752,7 +2752,7 @@
     ],
     "freeRaces": [],
     "gameId": 103302,
-    "name": "[Glacialis Vega]アドマイヤベガ",
+    "name": "[Glacialis Vega]爱慕织姬",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -3366,7 +3366,7 @@
     ],
     "freeRaces": [],
     "gameId": 104003,
-    "name": "[Boho Flare]ゴールドシチー",
+    "name": "[Boho Flare]黄金城市",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -3840,7 +3840,7 @@
       }
     ],
     "gameId": 104603,
-    "name": "[ルミナス☆トワラー]スマートファルコン",
+    "name": "[ルミナス☆トワラー]醒目飞鹰",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -4025,7 +4025,7 @@
     ],
     "freeRaces": [],
     "gameId": 104803,
-    "name": "[Highkey☆Hallowed]トーセンジョーダン",
+    "name": "[Highkey☆Hallowed]东瀛佐敦",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -4528,7 +4528,7 @@
       }
     ],
     "gameId": 105502,
-    "name": "[トリック☆リボネッタ]マーベラスサンデー",
+    "name": "[トリック☆リボネッタ]美丽周日",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -4671,7 +4671,7 @@
     ],
     "freeRaces": [],
     "gameId": 105702,
-    "name": "[絢爛花道歌舞く君]ミスターシービー",
+    "name": "[絢爛花道歌舞く君]千明代表",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -5697,7 +5697,7 @@
     ],
     "freeRaces": [],
     "gameId": 107002,
-    "name": "[Louve stellaire]シリウスシンボリ",
+    "name": "[Louve stellaire]天狼星象征",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -5882,7 +5882,7 @@
       }
     ],
     "gameId": 107301,
-    "name": "[志、高し、強し！]ツルマルツヨシ",
+    "name": "[志、高し、強し！]鹤丸刚志",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -6076,7 +6076,7 @@
       }
     ],
     "gameId": 107702,
-    "name": "[Celestial Road]ナリタトップロード",
+    "name": "[Celestial Road]成田路",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -6144,7 +6144,7 @@
     ],
     "freeRaces": [],
     "gameId": 107802,
-    "name": "[Sugary Wind]ヤマニンゼファー",
+    "name": "[Sugary Wind]也文摄辉",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -6177,7 +6177,7 @@
     ],
     "freeRaces": [],
     "gameId": 107901,
-    "name": "[衣錦還郷の瑞星]フリオーソ",
+    "name": "[衣錦還郷の瑞星]狂怒乐章",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -6235,6 +6235,46 @@
     ],
     "star": 5
   },
+  "108002": {
+    "bonusData": [],
+    "fiveStatusBonus": [
+      0,
+      0,
+      15,
+      0,
+      15
+    ],
+    "fiveStatusInitial": [
+      112,
+      100,
+      113,
+      108,
+      117
+    ],
+    "freeRaces": [
+      {
+        "startTurn": 12,
+        "endTurn": 31,
+        "count": 1
+      }
+    ],
+    "gameId": 108002,
+    "name": "[宵闇ネオカグラ]创升",
+    "preferRaces": [],
+    "preferReds": [],
+    "races": [
+      11,
+      38,
+      44,
+      46,
+      51,
+      59,
+      66,
+      68,
+      70
+    ],
+    "star": 5
+  },
   "108101": {
     "bonusData": [],
     "fiveStatusBonus": [
@@ -6264,7 +6304,7 @@
       }
     ],
     "gameId": 108101,
-    "name": "[Red Devil Gear]エスポワールシチー",
+    "name": "[Red Devil Gear]希望之城",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -6274,7 +6314,8 @@
       51,
       56,
       59,
-      66
+      66,
+      69
     ],
     "star": 5
   },
@@ -6451,7 +6492,7 @@
     ],
     "freeRaces": [],
     "gameId": 108402,
-    "name": "[With a Twist]タニノギムレット",
+    "name": "[With a Twist]谷野美酒",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -6589,7 +6630,7 @@
     ],
     "freeRaces": [],
     "gameId": 108602,
-    "name": "[Untouchable Eden]メジロラモーヌ",
+    "name": "[Untouchable Eden]目白高峰",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -6656,7 +6697,7 @@
     ],
     "freeRaces": [],
     "gameId": 108702,
-    "name": "[溶けない砂糖菓子]アストンマーチャン",
+    "name": "[溶けない砂糖菓子]真弓快车",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -6724,7 +6765,7 @@
     ],
     "freeRaces": [],
     "gameId": 108802,
-    "name": "[晴島花麗]サトノクラウン",
+    "name": "[晴島花麗]里见皇冠",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -6812,7 +6853,7 @@
       }
     ],
     "gameId": 108902,
-    "name": "[夏凪ネイビードロップ]シュヴァルグラン",
+    "name": "[夏凪ネイビードロップ]高尚骏逸",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -6849,7 +6890,7 @@
       }
     ],
     "gameId": 109001,
-    "name": "[Le beau sommet]ヴィルシーナ",
+    "name": "[Le beau sommet]极峰",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -6928,7 +6969,7 @@
       }
     ],
     "gameId": 109102,
-    "name": "[Éclat d'été]ヴィブロス",
+    "name": "[Éclat d'été]强击",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -6962,7 +7003,7 @@
     ],
     "freeRaces": [],
     "gameId": 109201,
-    "name": "[まんなか◎スポットライト]ダンツフレーム",
+    "name": "[まんなか◎スポットライト]烈焰快驹",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -7046,7 +7087,7 @@
       }
     ],
     "gameId": 109302,
-    "name": "[秋日色アンダンテ]ケイエスミラクル",
+    "name": "[秋日色アンダンテ]凯斯奇迹",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -7117,7 +7158,7 @@
     ],
     "freeRaces": [],
     "gameId": 109501,
-    "name": "[精粋]ビリーヴ",
+    "name": "[精粋]信念",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -7156,7 +7197,7 @@
       }
     ],
     "gameId": 109601,
-    "name": "[紅色塗早駆具足]ノーリーズン",
+    "name": "[紅色塗早駆具足]莫名其妙",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -7195,7 +7236,7 @@
       }
     ],
     "gameId": 109701,
-    "name": "[緋想の誓衣]スティルインラブ",
+    "name": "[緋想の誓衣]爱如往昔",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -7275,7 +7316,7 @@
       }
     ],
     "gameId": 109802,
-    "name": "[光彩陸離☆招福衣]コパノリッキー",
+    "name": "[光彩陸離☆招福衣]小林历奇",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -7516,7 +7557,7 @@
       }
     ],
     "gameId": 110402,
-    "name": "[雅号・墨龍]カツラギエース",
+    "name": "[雅号・墨龍]葛城王牌",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -7677,7 +7718,7 @@
       }
     ],
     "gameId": 110602,
-    "name": "[ハッピー・リトル・ノーツ]ヒシミラクル",
+    "name": "[ハッピー・リトル・ノーツ]菱钻奇宝",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -7753,7 +7794,7 @@
       }
     ],
     "gameId": 110702,
-    "name": "[Tap! Tap! Tap!]タップダンスシチー",
+    "name": "[Tap! Tap! Tap!]跳舞城",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -7854,7 +7895,7 @@
     ],
     "freeRaces": [],
     "gameId": 110902,
-    "name": "[Eternal Fairytale]ラインクラフト",
+    "name": "[Eternal Fairytale]莱茵力量",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -7922,7 +7963,7 @@
     ],
     "freeRaces": [],
     "gameId": 111002,
-    "name": "[Twinbell Queen]シーザリオ",
+    "name": "[Twinbell Queen]西沙里奥",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -7961,7 +8002,7 @@
       }
     ],
     "gameId": 111101,
-    "name": "[Inherited Hope]エアメサイア",
+    "name": "[Inherited Hope]空中救主",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -8033,7 +8074,7 @@
       }
     ],
     "gameId": 111501,
-    "name": "[総攬]オルフェーヴル",
+    "name": "[総攬]黄金巨匠",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -8109,7 +8150,7 @@
       }
     ],
     "gameId": 111701,
-    "name": "[ドラマティック・チュチュ]ウインバリアシオン",
+    "name": "[ドラマティック・チュチュ]凯旋芭蕾",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -8285,7 +8326,7 @@
     ],
     "freeRaces": [],
     "gameId": 112701,
-    "name": "[義心の黒焔]フェノーメノ",
+    "name": "[義心の黒焔]超常骏骥",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -8320,7 +8361,7 @@
     ],
     "freeRaces": [],
     "gameId": 113101,
-    "name": "[すまいる・まい・うぇい！]グランアレグリア",
+    "name": "[すまいる・まい・うぇい！]放声欢呼",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -8361,7 +8402,7 @@
       }
     ],
     "gameId": 113201,
-    "name": "[9927 Wishes]ラヴズオンリーユー",
+    "name": "[9927 Wishes]唯独爱你",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -8395,7 +8436,7 @@
     ],
     "freeRaces": [],
     "gameId": 113301,
-    "name": "[陸離の編纂者]クロノジェネシス",
+    "name": "[陸離の編纂者]创世驹",
     "preferRaces": [],
     "preferReds": [],
     "races": [

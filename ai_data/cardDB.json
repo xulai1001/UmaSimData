@@ -23829,6 +23829,186 @@
       }
     ]
   },
+  "10138": {
+    "cardId": 10138,
+    "charaId": 9050,
+    "cardName": "[友]保科健子",
+    "fullName": "[ゆこま旅館女将]保科健子",
+    "rarity": 1,
+    "cardType": 5,
+    "cardValue": [
+      {
+        "filled": true,
+        "bonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "initialBonus": [
+          0,
+          0,
+          0,
+          15,
+          0,
+          0
+        ],
+        "hintBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          5
+        ],
+        "hintLevel": 0,
+        "ganJing": 25,
+        "xunLian": 1,
+        "initialJiBan": 15,
+        "eventEffectUp": 20,
+        "failRateDrop": 5,
+        "vitalCostDrop": 10
+      },
+      {
+        "filled": true,
+        "bonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "initialBonus": [
+          0,
+          0,
+          0,
+          16,
+          0,
+          0
+        ],
+        "hintBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          5
+        ],
+        "hintLevel": 0,
+        "ganJing": 27,
+        "xunLian": 1,
+        "initialJiBan": 16,
+        "eventEffectUp": 21,
+        "failRateDrop": 6,
+        "vitalCostDrop": 11
+      },
+      {
+        "filled": true,
+        "bonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "initialBonus": [
+          0,
+          0,
+          0,
+          18,
+          0,
+          0
+        ],
+        "hintBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          5
+        ],
+        "hintLevel": 0,
+        "ganJing": 30,
+        "xunLian": 1,
+        "initialJiBan": 18,
+        "eventEffectUp": 22,
+        "failRateDrop": 8,
+        "vitalCostDrop": 12
+      },
+      {
+        "filled": true,
+        "bonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "initialBonus": [
+          0,
+          0,
+          0,
+          20,
+          0,
+          0
+        ],
+        "hintBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          5
+        ],
+        "hintLevel": 0,
+        "ganJing": 32,
+        "xunLian": 1,
+        "initialJiBan": 20,
+        "eventEffectUp": 23,
+        "failRateDrop": 10,
+        "vitalCostDrop": 13
+      },
+      {
+        "filled": true,
+        "bonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "initialBonus": [
+          0,
+          0,
+          0,
+          20,
+          0,
+          0
+        ],
+        "hintBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          5
+        ],
+        "hintLevel": 0,
+        "ganJing": 35,
+        "xunLian": 5,
+        "initialJiBan": 20,
+        "eventEffectUp": 25,
+        "failRateDrop": 10,
+        "vitalCostDrop": 15
+      }
+    ]
+  },
   "20001": {
     "cardId": 20001,
     "charaId": 1005,
@@ -91004,6 +91184,396 @@
       20,
       0,
       0
+    ]
+  },
+  "30275": {
+    "cardId": 30275,
+    "charaId": 1003,
+    "cardName": "[速]トウカイテイオー",
+    "fullName": "[天才的ユートピア]トウカイテイオー",
+    "rarity": 3,
+    "cardType": 0,
+    "cardValue": [
+      {
+        "filled": true,
+        "bonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "initialBonus": [
+          0,
+          0,
+          5,
+          0,
+          0,
+          30
+        ],
+        "hintBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          10
+        ],
+        "hintLevel": 2,
+        "youQing": 25,
+        "ganJing": 60,
+        "xunLian": 10,
+        "initialJiBan": 25,
+        "saiHou": 5,
+        "hintProbIncrease": 5,
+        "deYiLv": 60
+      },
+      {
+        "filled": true,
+        "bonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "initialBonus": [
+          0,
+          0,
+          10,
+          0,
+          0,
+          37
+        ],
+        "hintBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          10
+        ],
+        "hintLevel": 2,
+        "youQing": 27,
+        "ganJing": 70,
+        "xunLian": 11,
+        "initialJiBan": 27,
+        "saiHou": 6,
+        "hintProbIncrease": 5,
+        "deYiLv": 70
+      },
+      {
+        "filled": true,
+        "bonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "initialBonus": [
+          0,
+          0,
+          25,
+          0,
+          0,
+          45
+        ],
+        "hintBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          10
+        ],
+        "hintLevel": 2,
+        "youQing": 30,
+        "ganJing": 80,
+        "xunLian": 12,
+        "initialJiBan": 30,
+        "saiHou": 7,
+        "hintProbIncrease": 5,
+        "deYiLv": 80
+      },
+      {
+        "filled": true,
+        "bonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "initialBonus": [
+          0,
+          0,
+          25,
+          0,
+          0,
+          52
+        ],
+        "hintBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          15
+        ],
+        "hintLevel": 3,
+        "youQing": 32,
+        "ganJing": 90,
+        "xunLian": 13,
+        "initialJiBan": 32,
+        "saiHou": 8,
+        "hintProbIncrease": 50,
+        "deYiLv": 90
+      },
+      {
+        "filled": true,
+        "bonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "initialBonus": [
+          0,
+          0,
+          25,
+          0,
+          0,
+          60
+        ],
+        "hintBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          25
+        ],
+        "hintLevel": 5,
+        "youQing": 35,
+        "ganJing": 100,
+        "xunLian": 15,
+        "initialJiBan": 35,
+        "saiHou": 10,
+        "hintProbIncrease": 100,
+        "deYiLv": 100
+      }
+    ],
+    "uniqueEffectType": 1,
+    "uniqueEffectSummary": "羁绊>=80时スキルポイントボーナス(2)",
+    "uniqueEffectParam": [
+      101,
+      80,
+      30,
+      2,
+      0,
+      0
+    ]
+  },
+  "30276": {
+    "cardId": 30276,
+    "charaId": 9050,
+    "cardName": "[友]保科健子",
+    "fullName": "[ゆるり、ゆこま旅館]保科健子",
+    "rarity": 3,
+    "cardType": 5,
+    "cardValue": [
+      {
+        "filled": true,
+        "bonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "initialBonus": [
+          0,
+          0,
+          0,
+          5,
+          0,
+          0
+        ],
+        "hintBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          5
+        ],
+        "hintLevel": 0,
+        "ganJing": 40,
+        "xunLian": 1,
+        "initialJiBan": 20,
+        "saiHou": 5,
+        "eventEffectUp": 40,
+        "failRateDrop": 10,
+        "vitalCostDrop": 15
+      },
+      {
+        "filled": true,
+        "bonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "initialBonus": [
+          0,
+          0,
+          0,
+          10,
+          0,
+          0
+        ],
+        "hintBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          5
+        ],
+        "hintLevel": 0,
+        "ganJing": 45,
+        "xunLian": 1,
+        "initialJiBan": 21,
+        "saiHou": 5,
+        "eventEffectUp": 46,
+        "failRateDrop": 11,
+        "vitalCostDrop": 17
+      },
+      {
+        "filled": true,
+        "bonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "initialBonus": [
+          0,
+          0,
+          0,
+          25,
+          0,
+          0
+        ],
+        "hintBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          5
+        ],
+        "hintLevel": 0,
+        "ganJing": 50,
+        "xunLian": 1,
+        "initialJiBan": 23,
+        "saiHou": 5,
+        "eventEffectUp": 53,
+        "failRateDrop": 13,
+        "vitalCostDrop": 20
+      },
+      {
+        "filled": true,
+        "bonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "initialBonus": [
+          0,
+          0,
+          0,
+          25,
+          0,
+          0
+        ],
+        "hintBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          5
+        ],
+        "hintLevel": 0,
+        "ganJing": 55,
+        "xunLian": 5,
+        "initialJiBan": 25,
+        "saiHou": 5,
+        "eventEffectUp": 60,
+        "failRateDrop": 15,
+        "vitalCostDrop": 22
+      },
+      {
+        "filled": true,
+        "bonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "initialBonus": [
+          0,
+          0,
+          0,
+          25,
+          0,
+          0
+        ],
+        "hintBonus": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          5
+        ],
+        "hintLevel": 0,
+        "ganJing": 60,
+        "xunLian": 10,
+        "initialJiBan": 25,
+        "saiHou": 5,
+        "eventEffectUp": 80,
+        "failRateDrop": 15,
+        "vitalCostDrop": 25
+      }
+    ],
+    "uniqueEffectType": 1,
+    "uniqueEffectSummary": "羁绊>=60时xunLian(5)vitalCostDrop(5)",
+    "uniqueEffectParam": [
+      101,
+      60,
+      8,
+      5,
+      28,
+      5
     ]
   }
 }
