@@ -7453,6 +7453,47 @@
     ],
     "star": 5
   },
+  "110002": {
+    "bonusData": [],
+    "fiveStatusBonus": [
+      0,
+      10,
+      10,
+      10,
+      0
+    ],
+    "fiveStatusInitial": [
+      107,
+      105,
+      119,
+      112,
+      107
+    ],
+    "freeRaces": [
+      {
+        "startTurn": 12,
+        "endTurn": 29,
+        "count": 1
+      }
+    ],
+    "gameId": 110002,
+    "name": "[柔灯・湯の香の装い]奇锐骏",
+    "preferRaces": [],
+    "preferReds": [],
+    "races": [
+      11,
+      36,
+      41,
+      47,
+      50,
+      56,
+      59,
+      68,
+      70,
+      71
+    ],
+    "star": 5
+  },
   "110201": {
     "bonusData": [],
     "fiveStatusBonus": [
