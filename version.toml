@@ -10,7 +10,7 @@ ver = "0.1.4"
 [ura_data]
 name = "小黑板数据"
 date = "2025-11-28 18:05:20"
-filelist = ["events.br", "factor_ids.br", "names.br", "skill_data.br", "skill_upgrade_speciality.br", "success_events.br", "talent_skill_sets.br"]
+filelist = ["events.br", "events_female.br", "events_male.br", "factor_ids.br", "names.br", "skill_data.br", "skill_upgrade_speciality.br", "talent_skill_sets.br"]
 install_path = "%localappdata%/UmamusumeResponseAnalyzer"
 index = 3
 sha1 = "406a8e942e38f812d3155bc6d0b261bf3778ee14"
