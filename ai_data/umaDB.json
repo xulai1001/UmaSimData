@@ -526,6 +526,48 @@
     ],
     "star": 5
   },
+  "100603": {
+    "bonusData": [],
+    "fiveStatusBonus": [
+      8,
+      0,
+      8,
+      14,
+      0
+    ],
+    "fiveStatusInitial": [
+      101,
+      118,
+      101,
+      124,
+      106
+    ],
+    "freeRaces": [
+      {
+        "startTurn": 12,
+        "endTurn": 23,
+        "count": 1
+      },
+      {
+        "startTurn": 48,
+        "endTurn": 59,
+        "count": 2
+      }
+    ],
+    "gameId": 100603,
+    "name": "[シンデレラグレイ]小栗帽",
+    "preferRaces": [],
+    "preferReds": [],
+    "races": [
+      11,
+      32,
+      45,
+      47,
+      67,
+      71
+    ],
+    "star": 5
+  },
   "100701": {
     "bonusData": [],
     "fiveStatusBonus": [
@@ -7036,7 +7078,7 @@
     ],
     "freeRaces": [],
     "gameId": 109201,
-    "name": "[最中央◎聚光灯]烈焰快驹",
+    "name": "[まんなか◎スポットライト]烈焰快驹",
     "preferRaces": [],
     "preferReds": [],
     "races": [
@@ -8581,7 +8623,7 @@
     ],
     "freeRaces": [],
     "gameId": 113301,
-    "name": "[陆离之编纂者]创世驹",
+    "name": "[陸離の編纂者]创世驹",
     "preferRaces": [],
     "preferReds": [],
     "races": [
