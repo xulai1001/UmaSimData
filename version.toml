@@ -23,6 +23,6 @@ filelist = [
     "cardDB.json",
     "text_data_dict.json"  
 ]
-install_path = "db"
+install_path = "gamedata"
 index = 2
 sha1 = "ef41aab0a9c22d68ec69ab09fad382fb5c8ca69a"
