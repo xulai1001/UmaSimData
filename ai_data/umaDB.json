@@ -8817,5 +8817,49 @@
       71
     ],
     "star": 5
+  },
+  "113701": {
+    "bonusData": [],
+    "fiveStatusBonus": [
+      10,
+      0,
+      0,
+      10,
+      10
+    ],
+    "fiveStatusInitial": [
+      118,
+      119,
+      106,
+      111,
+      96
+    ],
+    "freeRaces": [
+      {
+        "startTurn": 12,
+        "endTurn": 23,
+        "count": 1
+      },
+      {
+        "startTurn": 24,
+        "endTurn": 36,
+        "count": 1,
+        "grade": 3
+      }
+    ],
+    "gameId": 113701,
+    "name": "[Miracle Author]神业",
+    "preferRaces": [],
+    "preferReds": [],
+    "races": [
+      11,
+      43,
+      59,
+      66,
+      67,
+      69,
+      71
+    ],
+    "star": 5
   }
 }
