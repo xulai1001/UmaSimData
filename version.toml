@@ -1,17 +1,17 @@
 [auto_update]
 name = "自动更新工具"
-date = "2025-04-21 21:56:14"
+date = "2026-01-27 19:22:53.799410"
 filelist = ["uma-autoupdate.exe"]
-sha1 = "c4697d93369e7cddd25fc6d875b27aa1d45d96dd"
+sha1 = "5afb01ecd1b048130f87a2ccc47156799f8a001c"
 index = 6
 install_path = "."
-ver = "0.1.4"
+ver = "0.2.0"
 
 [ura_data]
 name = "小黑板数据"
 date = "2026-01-21 22:42:10"
 filelist = ["events.br", "events_female.br", "events_male.br", "factor_ids.br", "names.br", "skill_data.br", "skill_upgrade_speciality.br", "talent_skill_sets.br", "succession_relation.br", "wins_saddle.br"]
-install_path = "%localappdata%/UmamusumeResponseAnalyzer"
+install_path = "%uraroot%/"
 index = 3
 sha1 = "5fc4706651733861a1984c6cda23637670422f66"
 
