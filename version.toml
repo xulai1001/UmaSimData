@@ -9,15 +9,15 @@ ver = "0.2.0"
 
 [ura_data]
 name = "小黑板数据"
-date = "2026-01-21 22:42:10"
+date = "2026-02-01 13:09:20"
 filelist = ["events.br", "events_female.br", "events_male.br", "factor_ids.br", "names.br", "skill_data.br", "skill_upgrade_speciality.br", "talent_skill_sets.br", "succession_relation.br", "wins_saddle.br"]
 install_path = "%uraroot%/"
 index = 3
-sha1 = "5fc4706651733861a1984c6cda23637670422f66"
+sha1 = "8be2d45256963e894a96401cbef8fbf63a392bef"
 
 [ai_data]
 name = "AI数据"
-date = "2026-01-21 22:30:42.060338"
+date = "2026-02-01 13:05:44.287117"
 filelist = [
 	"umaDB.json",
     "cardDB.json",
@@ -25,4 +25,4 @@ filelist = [
 ]
 install_path = "gamedata"
 index = 2
-sha1 = "23fc953440a740c2f4081a3c21d0b30a0ac7d269"
+sha1 = "ad01935f5a9bd4f7c33bd18087ce4f048a929f51"

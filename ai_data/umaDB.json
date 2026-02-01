@@ -877,6 +877,39 @@
     ],
     "star": 5
   },
+  "101003": {
+    "bonusData": [],
+    "fiveStatusBonus": [
+      0,
+      0,
+      10,
+      20,
+      0
+    ],
+    "fiveStatusInitial": [
+      110,
+      90,
+      123,
+      127,
+      100
+    ],
+    "freeRaces": [],
+    "gameId": 101003,
+    "name": "[Baa Baa Patisserie]大树快车",
+    "preferRaces": [],
+    "preferReds": [],
+    "races": [
+      11,
+      24,
+      32,
+      35,
+      45,
+      58,
+      65,
+      69
+    ],
+    "star": 5
+  },
   "101101": {
     "bonusData": [],
     "fiveStatusBonus": [
@@ -7699,6 +7732,46 @@
     ],
     "gameId": 110201,
     "name": "[Ritmo・Della・Terra]万籁争鸣",
+    "preferRaces": [],
+    "preferReds": [],
+    "races": [
+      11,
+      32,
+      33,
+      43,
+      53,
+      55,
+      63,
+      69,
+      71
+    ],
+    "star": 5
+  },
+  "110202": {
+    "bonusData": [],
+    "fiveStatusBonus": [
+      0,
+      14,
+      8,
+      8,
+      0
+    ],
+    "fiveStatusInitial": [
+      109,
+      117,
+      114,
+      111,
+      99
+    ],
+    "freeRaces": [
+      {
+        "startTurn": 12,
+        "endTurn": 27,
+        "count": 1
+      }
+    ],
+    "gameId": 110202,
+    "name": "[ソナタ・アッラ・メンタ]万籁争鸣",
     "preferRaces": [],
     "preferReds": [],
     "races": [
